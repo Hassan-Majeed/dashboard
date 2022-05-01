@@ -1,0 +1,17 @@
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/auth/login.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/auth/password-recovery-1.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/auth/password-recovery-2.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/auth/password-recovery-3.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/dashboard/dashboard.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/user/user-management.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/user/userDetails.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/user/edit-user-profile.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/user/addUser.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/services/servicesListings.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/services/addProgram.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/subscription/subscriptionListing.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/subscription/subscriptionDetails.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/mealPlan/mealPlanSubscription.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/mealPlan/subscriptionDetails.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/feedbacks/feedbacks.php
+https://dev125.onlinetestingserver.com/danyelle-blocker/admin/profile/notifications.php
